@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a data enthusiast and analysis fanatic who has recently entered the world of data science! I have been a business analyst and product owner the past 5 years, and am now using the skillsets from these roles to look at data in whole news ways with data visualization, machine learning algorithms, andp predictive modeling. I have worked on many projects using Python and SQL. Currently, I am furthering my knowledge and practical experience in deep learning and neural networks.
+I am a data enthusiast and analysis fanatic who has recently entered the world of data science! I have been a business analyst and product owner the past 5 years, and am now using the skillsets from these roles to look at data in new ways using data visualization, machine learning algorithms, and predictive modeling. I have worked on many projects using Python and SQL. Currently, I am furthering my knowledge and practical experience in deep learning and neural networks.
 
 ## Skills 💪
 
