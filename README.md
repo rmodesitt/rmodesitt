@@ -20,7 +20,14 @@ I am a data enthusiast and analysis fanatic who has recently entered the world o
 ## Skills 💪
 <p>
   <img src='python_image.jpg' width='50' height='50'>
-  <img src='sql_image.png' width='50' height='50'>
+  <img src='sql_image.png' width='50' height='60'>
+  <img src='pandas_image.png' width='50' height='50'>
+  <img src='matplotlib_image.png' width='50' height='50'>
+  <img src='seaborn_image.png' width='50' height='50'>
+  <img src='scikit_image.png' width='50' height='50'>
+  <img src='tensorflow_image.png' width='50' height='50'>
+  <img src='pytorch_image.png' width='50' height='50'>
+  <img src='keras_image.png' width='50' height='50'>
 </p>
 
 ## Socials 🤳
