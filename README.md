@@ -20,7 +20,7 @@ I am a data enthusiast and analysis fanatic who has recently entered the world o
 ## Tech stack and skills 💪
 <p>
   <img src='images/python_image.jpg' width='50' height='50'>
-  <img src='images/sql_image.png' width='60' height='50'>
+  <img src='images/sql_image.png' width='50' height='50'>
   <img src='images/pandas_image.png' width='50' height='50'>
   <img src='images/matplotlib_image.png' width='50' height='50'>
   <img src='images/seaborn_image.png' width='50' height='50'>
