@@ -19,20 +19,20 @@ I am a data enthusiast and analysis fanatic who has recently entered the world o
 
 ## Tech stack and skills 💪
 <p>
-  <img src='python_image.jpg' width='50' height='50'>
-  <img src='sql_image.png' width='60' height='50'>
-  <img src='pandas_image.png' width='50' height='50'>
-  <img src='matplotlib_image.png' width='50' height='50'>
-  <img src='seaborn_image.png' width='50' height='50'>
-  <img src='scikit_image.png' width='50' height='50'>
-  <img src='tensorflow_image.png' width='50' height='50'>
-  <img src='pytorch_image.png' width='50' height='50'>
-  <img src='keras_image.png' width='50' height='50'>
+  <img src='images/python_image.jpg' width='50' height='50'>
+  <img src='images/sql_image.png' width='60' height='50'>
+  <img src='images/pandas_image.png' width='50' height='50'>
+  <img src='images/matplotlib_image.png' width='50' height='50'>
+  <img src='images/seaborn_image.png' width='50' height='50'>
+  <img src='images/scikit_image.png' width='50' height='50'>
+  <img src='images/tensorflow_image.png' width='50' height='50'>
+  <img src='images/pytorch_image.png' width='50' height='50'>
+  <img src='images/keras_image.png' width='50' height='50'>
 </p>
 
 ## Socials 🤳
 <p>
-  <img src='python_image.jpg' width='50' height='50'>
-  <img src='sql_image.png' width='60' height='50'>
-  <img src='pandas_image.png' width='50' height='50'>
+  <img src='images/discord.jpg' width='50' height='50'>
+  <img src='images/linkedin.png' width='60' height='50'>
+  <img src='images/github.png' width='50' height='50'>
 </p>
