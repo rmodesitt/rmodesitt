@@ -20,7 +20,7 @@ I am a data enthusiast and analysis fanatic who has recently entered the world o
 ## Skills 💪
 <p>
   <img src='python_image.jpg' width='50' height='50'>
-  <img src='sql_image.jpg' width='50' height='50'>
+  <img src='sql_image.png' width='50' height='50'>
 </p>
 
 ## Socials 🤳
