@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 I am a data enthusiast and analysis fanatic who has recently entered the world of data science! I have been a business analyst and product owner the past 5 years, and am now using the skillsets from these roles to look at data in new ways using data visualization, machine learning algorithms, and predictive modeling. I have worked on many projects using Python and SQL. Currently, I am furthering my knowledge and practical experience in deep learning and neural networks.
 
 ## Skills 💪
-![Python]('python_image.jpg'){: style="height:50px"}
-![SQL]('sql_image.png'){: style="height:50px"}
+<p>
+  <img src="python_image.jpg">
+  <img src="sql_image.png">
+</p>
 
 ## Socials 🤳
