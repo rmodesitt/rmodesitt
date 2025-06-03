@@ -32,7 +32,7 @@ I am a data enthusiast and analysis fanatic who has recently entered the world o
 
 ## Socials 🤳
 <p>
-  <img src='images/discord.jpg' width='50' height='50'>
-  <img src='images/linkedin.png' width='60' height='50'>
-  <img src='images/github.png' width='50' height='50'>
+  <img src='images/discord_image.png' width='50' height='50'>
+  <img src='images/linkedin_image.png' width='60' height='50'>
+  <img src='images/github_image.png' width='50' height='50'>
 </p>
