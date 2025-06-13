@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a data enthusiast and analysis fanatic who has recently entered the world of data science! I have been a Business Analyst and Product Owner the past 5 years, and now am using the skillsets from these roles to look at data in new and profound ways using data visualization, machine learning algorithms, and predictive modeling.
 
 - 🌎 I'm based in Colorado
-- 📱 I can be contacted via Discord or LinkedIn
+- 📱 I can be contacted via Discord - yukoncornelius1791
 - 🌱 I'm currently furthering my knowledge in deep learning and neural networks
 
 ## Tech stack and skills 💪
